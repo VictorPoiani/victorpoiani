@@ -7,13 +7,12 @@ Estudante de **Sistemas de Informação** na Universidade Federal de Viçosa (UF
 ### 💻 Stack Tecnológica
 
 * **Front-end & Web:** HTML5, CSS3, JavaScript (ES6+), Design Responsivo
-* **Back-end & Linguagens:** C, C++, JavaScript
+* **Back-end & Linguagens:** C, C++, JavaScript, Python
 * **Banco de Dados & BaaS:** PostgreSQL, Supabase
 * **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
 ### 🚀 O que venho construindo
+* **Post it (Insighter):**Plataforma de blog pessoal com perfis, sistema de tags, feeds de posts e integração com diversas outras redes.
 * **StudyAway:** Plataforma educacional com catálogo de videoaulas, bancos de questões e árvores de talentos gamificadas.
-* **Comic Cave / ComicFlow:** Aplicação web responsiva para leitura de quadrinhos e mangás com modo escuro e gestão de catálogos.
-* **Post it (Insighter):** Rede social e plataforma de blog pessoal com perfis, sistema de tags, feeds de posts e integração com player de música.
