@@ -22,5 +22,5 @@ Estudante de **Sistemas de Informação** na Universidade Federal de Viçosa (UF
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorpoiani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
