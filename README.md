@@ -16,3 +16,11 @@ Estudante de **Sistemas de Informação** na Universidade Federal de Viçosa (UF
 ### 🚀 O que venho construindo
 * **Post it (Insighter):**Plataforma de blog pessoal com perfis, sistema de tags, feeds de posts e integração com diversas outras redes.
 * **StudyAway:** Plataforma educacional com catálogo de videoaulas, bancos de questões e árvores de talentos gamificadas.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
