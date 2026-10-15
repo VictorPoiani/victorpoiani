@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá Viajante, eu sou o Victor Poiani. Seja bem vindo ao meu canto profissional. 👋
 
-<!--
-**VictorPoiani/victorpoiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação** na Universidade Federal de Viçosa (UFV) e desenvolvedor apaixonado por construir aplicações web funcionais, escaláveis e focadas na experiência do usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológica
+
+* **Front-end & Web:** HTML5, CSS3, JavaScript (ES6+), Design Responsivo
+* **Back-end & Linguagens:** C, C++, JavaScript
+* **Banco de Dados & BaaS:** PostgreSQL, Supabase
+* **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 🚀 O que venho construindo
+* **StudyAway:** Plataforma educacional com catálogo de videoaulas, bancos de questões e árvores de talentos gamificadas.
+* **Comic Cave / ComicFlow:** Aplicação web responsiva para leitura de quadrinhos e mangás com modo escuro e gestão de catálogos.
+* **Post it (Insighter):** Rede social e plataforma de blog pessoal com perfis, sistema de tags, feeds de posts e integração com player de música.
