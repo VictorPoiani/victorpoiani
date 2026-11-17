@@ -36,8 +36,7 @@
 <!-- 📸 [FOTO 2 AQUI] - SUA FOTO DE INFÂNCIA DE HOMEM DE FERRO               -->
 <!-- Substitua COLE_AQUI_LINK_FOTO_IRON_MAN pelo link gerado no GitHub       -->
 <!-- ======================================================================= -->
-<img align="right" width="250" style="border-radius: 12px; border: 2px solid #F59E0B;" src="https://github.com/user-attachments/assets/a5342013-f290-47fa-9926-40000afed1d7
-" alt="Victor na infância como Homem de Ferro" />
+<img align="right" width="250" src="https://github.com/user-attachments/assets/a5342013-f290-47fa-9926-40000afed1d7" alt="Victor na infância como Homem de Ferro" />
 
 Olá, viajante! Eu sou o **Victor Poiani**, estudante de **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)**.
 
