@@ -65,7 +65,7 @@ Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão
         <!-- 📸 [FOTO 1 AQUI] - BANNER DO INSIGHT -->
         <!-- Substitua COLE_AQUI_LINK_FOTO_INSIGHT pelo link gerado no GitHub -->
         <a href="https://github.com/VictorPoiani" target="_blank">
-          <img src="COLE_AQUI_LINK_FOTO_INSIGHT" width="100%" style="border-radius: 8px;" alt="Banner Insight" />
+         <img width="1920" height="1080" alt="banner-insight" src="https://github.com/user-attachments/assets/9d973006-7a8e-4e88-aa21-4982cf5136ec" />
         </a>
       </div>
       <br/>
@@ -83,7 +83,7 @@ Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão
         <a href="https://github.com/VictorPoiani" target="_blank">
           <img src="https://img.shields.io/badge/Reposit%C3%B3rio-0F0A0A?style=for-the-badge&logo=github&logoColor=F3F4F6" alt="Repo Insight" />
         </a>
-        <a href="https://LINK-DO-SEU-DEPLOY.vercel.app" target="_blank">
+        <a href="https://insight-eta-one.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Iniciar_Sistema-DC2626?style=for-the-badge&logo=vercel&logoColor=FBBF24" alt="Demo Insight" />
         </a>
       </div>
@@ -116,21 +116,6 @@ Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão
     </td>
   </tr>
   <tr>
-    <!-- ==================== PROJETO 3: STUDYAWAY ==================== -->
-    <td colspan="2" valign="top">
-      <h3 align="center">🟡 Mark III: StudyAway <small>(Ecossistema Educacional Gamificado)</small></h3>
-      <p align="center">
-        Ambiente educacional completo projetado para centralizar a rotina de estudos. Integra catálogo de videoaulas conectado ao <b>Supabase</b>, sistema de busca em banco de questões e <b>árvores de talentos gamificadas estilo RPG</b> para evolução contínua do estudante.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript_ES6+-1C1010?style=flat-square&logo=javascript&logoColor=F59E0B" />
-        <img src="https://img.shields.io/badge/HTML5_%26_CSS3-1C1010?style=flat-square&logo=html5&logoColor=F59E0B" />
-        <img src="https://img.shields.io/badge/PostgreSQL-1C1010?style=flat-square&logo=postgresql&logoColor=F59E0B" />
-        <img src="https://img.shields.io/badge/Supabase-1C1010?style=flat-square&logo=supabase&logoColor=F59E0B" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -246,7 +231,7 @@ ng=F59E0B&fire=DC2626&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=F59E0
 
 
 
-<img width="1080" height="1068" alt="9238a1c6-ef9d-49fb-989f-9e9655fb7e15" src="https://github.com/user-attachments/assets/a5342013-f290-47fa-9926-40000afed1d7" />
+<img width="1920" height="1080" alt="banner-insight" src="https://github.com/user-attachments/assets/9d973006-7a8e-4e88-aa21-4982cf5136ec" />
 
 
 
