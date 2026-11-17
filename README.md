@@ -165,21 +165,19 @@ Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão
 </table>
 
 ---
-
 ### 📊 Telemetria do Sistema & Diagnóstico do Reator
 
 <div align="center">
-  <!-- GITHUB STATS & TOP LANGUAGES -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VictorPoiani&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F0A0A&title_color=F59E0B&text_color=F3F4F6&icon_color=DC2626&border_color=7F1D1D&border_radius=10" alt="Victor's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPoiani&layout=compact&langs_count=8&bg_color=0F0A0A&title_color=F59E0B&text_color=F3F4F6&border_color=7F1D1D&border_radius=10" alt="Top Languages" />
+  <!-- GITHUB STATS & TOP LANGUAGES (USANDO O SERVIDOR ATIVO GITHUB-STATS-EXTENDED) -->
+  <img height="175em" src="https://github-stats-extended.vercel.app/api?username=VictorPoiani&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F0A0A&title_color=F59E0B&text_color=F3F4F6&icon_color=DC2626&border_color=7F1D1D&border_radius=10" alt="Victor's GitHub Stats" />
+  <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorPoiani&layout=compact&langs_count=8&bg_color=0F0A0A&title_color=F59E0B&text_color=F3F4F6&border_color=7F1D1D&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- STREAK STATS -->
-  <img height="165em" src="https://streak-stats.demolab.com?user=VictorPoiani&background=0F0A0A&border=7F1D1D&stroke=7F1D1D&ri<img width="1080" height="1068" alt="9238a1c6-ef9d-49fb-989f-9e9655fb7e15" src="https://github.com/user-attachments/assets/d3e6bd51-88c2-4b8d-8276-1c7ea4f43219" />
-ng=F59E0B&fire=DC2626&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=F59E0B&sideLabels=D1D5DB&dates=9CA3AF&border_radius=10&Locale=pt_BR" alt="GitHub Streak" />
+  <!-- STREAK STATS (LINK INTACTO E CORRIGIDO) -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=VictorPoiani&background=0F0A0A&border=7F1D1D&stroke=7F1D1D&ring=F59E0B&fire=DC2626&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=F59E0B&sideLabels=D1D5DB&dates=9CA3AF&border_radius=10&Locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -198,15 +196,6 @@ ng=F59E0B&fire=DC2626&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=F59E0
   </p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,55:7F1D1D,100:0F0A0A&height=110&section=footer" alt="Footer" />
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
