@@ -1,15 +1,12 @@
-<!-- BANNER DINÂMICO (Você pode manter este gerador dinâmico ou trocar o src por um banner/GIF próprio) -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:3b82f6&height=200&section=header&text=Victor%20Poiani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%40%20UFV&descAlignY=58&descSize=18" alt="Banner Victor Poiani" />
 
-  <!-- EFEITO DE DIGITAÇÃO DINÂMICO -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ol%C3%A1+Viajante%2C+seja+bem-vindo+ao+meu+canto+profissional!+%F0%9F%91%8B;Construindo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis+e+minimalistas;Full-Stack+Developer+%7C+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;Transformando+ideias+complexas+em+experi%C3%AAncias+fluidas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ol%C3%A1+Viajante%2C+seja+bem-vindo+ao+meu+canto+profissional!+%F0%9F%91%8B;Construindo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis;Full-Stack+Developer+%7C+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;Transformando+ideias+complexas+em+experi%C3%AAncias+fluidas" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- BADGES DE REDES SOCIAIS & LINKS RÁPIDOS (Substitua os links pelos seus URLs reais) -->
   <p align="center">
     <a href="https://seu-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portf%C3%B3lio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
@@ -28,9 +25,8 @@
 
 ---
 
-### 🧭 Sobre o Viajante
+### 🧭 Sobre o mim
 
-<!-- ESPAÇO PARA IMAGEM / GIF LATERAL (Troque a URL abaixo por um GIF de Pixel Art seu ou avatar) -->
 <img align="right" width="260" style="border-radius: 12px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF ou Avatar Pixel Art" />
 
 Sou estudante de **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)** e desenvolvedor focado em construir aplicações web modernas, escaláveis e com forte atenção ao **UI/UX** e à arquitetura de software.
@@ -49,11 +45,9 @@ Sou estudante de **Sistemas de Informação** na **Universidade Federal de Viço
 
 <table width="100%">
   <tr>
-    <!-- CARD PROJETO 1: INSIGHT -->
     <td width="50%" valign="top">
       <h3 align="center">✨ Insight <small>(ex-Post it / Insighter)</small></h3>
       <div align="center">
-        <!-- COLOQUE O PRINT OU GIF DO INSIGHT AQUI -->
         <a href="https://github.com/VictorPoiani/insight" target="_blank">
           <img src="https://placehold.co/600x340/0f172a/38bdf8?text=Preview+do+Insight+(GIF/Print)&font=montserrat" width="100%" style="border-radius: 8px;" alt="Insight Preview" />
         </a>
