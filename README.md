@@ -40,7 +40,9 @@
 <!-- Troque o link do src="..." por um GIF do Tony Stark na oficina,         -->
 <!-- capacete acendendo, interface J.A.R.V.I.S. ou uma foto/pixel art sua.   -->
 <!-- ======================================================================= -->
-<img align="right" width="280" style="border-radius: 12px; border: 2px solid #F59E0B;" src="https://placehold.co/420x420/0F0A0A/F59E0B?text=%E2%9A%A1+GIF+Stark+Workshop%0Aou+Sua+Foto+Aqui&font=montserrat" alt="Stark Workshop Aesthetic" />
+<img align="right" width="280" style="border-radius: 12px; border: 2px solid #F59E0B;" src="https://placehold.co/420x420/0F0A0A/F59E0B?<img width="1080" height="1068" alt="9238a1c6-ef9d-49fb-989f-9e9655fb7e15" src="https://github.com/user-attachments/assets/2756f80f-d689-41f6-bf72-7986b08965de" />
+
+text=%E2%9A%A1+GIF+Stark+Workshop%0Aou+Sua+Foto+Aqui&font=montserrat" alt="Stark Workshop Aesthetic" />
 
 Olá, viajante! Eu sou o **Victor Poiani**, estudante de **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)**.
 
