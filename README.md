@@ -1,8 +1,4 @@
-<!-- ======================================================================= -->
-<!-- 📸 [FOTO 1 - BANNER DO TOPO]                                            -->
-<!-- Atualmente usa um gerador dinâmico em tons de Café & Bronze.            -->
-<!-- Se quiser usar uma arte sua, troque o link dentro de src="..." abaixo.  -->
-<!-- ======================================================================= -->
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A120B,50:3C2A21,100:C88A4B&height=210&section=header&text=Victor%20Poiani&fontSize=52&fontColor=EDE0D4&animation=fadeIn&fontAlignY=35&desc=%E2%98%95%20Full-Stack%20Developer%20%E2%80%A2%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%40%20UFV&descAlignY=58&descSize=18&descColor=D4A373" alt="Banner Victor Poiani" />
 
@@ -34,7 +30,7 @@
 
 ---
 
-### ☕ Bem-vindo à minha Cafeteria Digital
+### ☕ Bem-vindo ao meu Portifólio Digital
 
 <!-- ======================================================================= -->
 <!-- 📸 [FOTO 2 - AVATAR / GIF LATERAL]                                      -->
