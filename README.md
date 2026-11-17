@@ -42,13 +42,13 @@ Olá, viajante! Eu sou o **Victor Poiani**, estudante de **Sistemas de Informaç
 
 Desde criança, minha maior referência sempre foi o **Homem de Ferro**. Mais do que a armadura em si, o que me fascinava era o processo dentro da oficina: projetar ideias do zero, integrar hardware e software, criar assistentes inteligentes e automatizar o mundo ao redor.
 
-Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão erguida continua a mesma, agora rastreada por algoritmos de **Visão Computacional** e **ecossistemas web**.
+Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão erguida continua a mesma, agora rastreada por algoritmos de **Visão Computacional**, **ecossistemas web**, entre outros.
 
 > 🛠️ **O propósito deste perfil:** Este GitHub funciona como a minha **oficina aberta**, destinado a publicar os projetos, criações tecnológicas, ecossistemas digitais e automações que desenvolvo e decido compartilhar.
 
-- 🌐 **Arquitetura de Ecossistemas:** Gosto de criar plataformas completas — do banco de dados e automações de servidor até interfaces *Dark Mode* minimalistas e fluidas.
-- 🤖 **Automação & Visão Computacional:** Experimentação contínua com Python, rastreamento em tempo real e interações inteligentes.
-- 🎸 **Fora da Bancada:** Guitarrista movido a *Classic & Prog Rock*, entusiasta de cubos mágicos e leitura.
+- 🌐 **Arquitetura de Ecossistemas:** Gosto de criar plataformas completas — do banco de dados e automações de servidor até interfaces **variadas**.
+- 🤖 **Automação & Visão Computacional:** Experimentação contínua com Python, rastreamento em tempo real, interações inteligentes e automação de tarefas.
+- 🎸 **Fora da Bancada:** Guitarrista movido a *Classic & Prog Rock*, entusiasta da cultura pop e fantasia, filosofo nas horas vagas.
 
 <br clear="both"/>
 
@@ -63,7 +63,6 @@ Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão
       <h3 align="center">🔴 Mark I: Insight <small>(Ecossistema Social)</small></h3>
       <div align="center">
         <!-- 📸 [FOTO 1 AQUI] - BANNER DO INSIGHT -->
-        <!-- Substitua COLE_AQUI_LINK_FOTO_INSIGHT pelo link gerado no GitHub -->
         <a href="https://github.com/VictorPoiani" target="_blank">
          <img width="1920" height="1080" alt="banner-insight" src="https://github.com/user-attachments/assets/9d973006-7a8e-4e88-aa21-4982cf5136ec" />
         </a>
@@ -95,7 +94,7 @@ Hoje, troquei o repulsor de brinquedo pela engenharia de software — mas a mão
         <!-- 📸 [FOTO 3 AQUI] - PRINT DO PROJETO DE VISÃO COMPUTACIONAL -->
         <!-- Substitua COLE_AQUI_LINK_FOTO_VISAO pelo link gerado no GitHub -->
         <a href="https://github.com/VictorPoiani" target="_blank">
-          <img src="COLE_AQUI_LINK_FOTO_VISAO" width="100%" style="border-radius: 8px;" alt="Visão Computacional Hand Tracking" />
+    <img width="405" height="285" alt="Captura de tela 2026-11-09 151122" src="https://github.com/user-attachments/assets/531066c2-1804-4ce6-a600-d35e1be9bd99" />
         </a>
       </div>
       <br/>
@@ -220,18 +219,6 @@ ng=F59E0B&fire=DC2626&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=F59E0
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<img width="1920" height="1080" alt="banner-insight" src="https://github.com/user-attachments/assets/9d973006-7a8e-4e88-aa21-4982cf5136ec" />
 
 
 
